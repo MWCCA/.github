@@ -18,7 +18,7 @@
 |Anna Kim | | |
 |Benjamin Vuong | | |
 |Dineca Joseph Santhakumar| | |
-|Grace Bennett  | | |
+|Grace Bennett  | bennettgrace| Beginner|
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
 |Joy Giaus-Obas | | |
